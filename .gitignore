@@ -1,0 +1,38 @@
+# Models
+models/
+
+# Build directories
+build/
+bin/
+out/
+cmake-build-*/
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+
+# Debug and symbol files
+*.pdb
+*.ilk
+*.exp
+
+# Tooling and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+compile_commands.json
+CMakeUserPresets.json
+.cache/
+
+# Downloaded archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
