@@ -1,6 +1,11 @@
 # Models
 models/
 
+# Downloaded prebuilt binaries & third-party SDKs
+sherpa-onnx*/
+_deps/
+third_party/
+
 # Build directories
 build/
 bin/
